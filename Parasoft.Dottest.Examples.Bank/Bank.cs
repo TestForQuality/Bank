@@ -7,6 +7,7 @@ namespace Parasoft.Dottest.Examples.Bank
 {
     public class Bank
     {
+        //commrnt
         private CurrencyExchangeConverter _converter;
 
         IDictionary<string, CurrencyInfo> _currencies = new Dictionary<string, CurrencyInfo>();
